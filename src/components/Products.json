@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Mussels",
+        "data": [
+            {
+                "image": "/src/images/Product-One.jpeg",
+                "title": "Mussel from the counter"
+            },
+            {
+                "image": "/src/images/Product-Two.jpeg",
+                "title": "Cookware Mussel"
+            },
+            {
+                "image": "/src/images/Product-Three.jpeg",
+                "title": "Spicy Mussel"
+            },
+            {
+                "image": "/src/images/Product_Four.jpeg",
+                "title": "Mussel"
+            },
+            {
+                "image": "/src/images/Product-Five.jpeg",
+                "title": "Olive Oil Mussel"
+            },
+            {
+                "image": "/src/images/Product-Six.jpeg",
+                "title": "Mussel Pan"
+            }
+        ]
+    },
+    {
+        "title": "Other Products",
+        "data": [
+            {
+                "image": "/src/images/Other-Product-One.jpeg",
+                "title": "Pilaf"
+            },
+            {
+                "image": "/src/images/Other-Product-Two.jpeg",
+                "title": "Chicken Pilaf"
+            },
+            {
+                "image": "/src/images/Other-Product-Three.jpeg",
+                "title": "Mussel Pilaf"
+            },
+            {
+                "image": "/src/images/Other-Product-Four.jpeg",
+                "title": "Cocoretic Pilave"
+            },
+            {
+                "image": "/src/images/Other-Product-Five.jpeg",
+                "title": "Ring Coil"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "image": "/src/images/Branch-One.jpeg",
+        "title1": "Cookware Mussel Express",
+        "title2": "Bahçelievler",
+        "address": "Bahçelievler neighborhood 54th street (6. street ) 31-33/A (10)",
+        "city": "Çankaya / Ankara",
+        "pincode": "06490",
+        "email": "I info@tenceremçe.co",
+        "instagram": "instagram.com/tenceremiye",
+        "phone": "0312 212 3736"
+    },
+    {
+        "image": "/src/images/Branch-Two.jpeg",
+        "title1": "Cookware Mussel Plus",
+        "title2": "Beysukent",
+        "address": "Çayolu Mahallı S. Saltoğlu Boulevard Beysupark AVM No:209 D:9",
+        "city": "Çankaya/Ankara",
+        "pincode": "06810",
+        "email": "I info@tenceremçe.co",
+        "instagram": "instagram.com/tenceremidyeplus",
+        "phone": "0312 235 1015"
+    }
+]
