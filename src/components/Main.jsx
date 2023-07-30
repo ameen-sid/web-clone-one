@@ -1,6 +1,8 @@
 import React from 'react'
 import ProductSection from './ProductSection'
 import data from './Products.json'
+import '../images/Background.png'
+import '../images/Main-First-Background.jpeg'
 
 const Main = () => {
     return (

@@ -1,4 +1,6 @@
 import React from 'react'
+import '../images/Branch-One.jpeg'
+import '../images/Branch-Two.jpeg'
 
 const Branches = (props) => {
     return (
