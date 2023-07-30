@@ -3,6 +3,7 @@ import ProductSection from './ProductSection'
 import data from './Products.json'
 import '../images/Background.png'
 import '../images/Main-First-Background.jpeg'
+import '../images/Full-Background.jpeg'
 
 const Main = () => {
     return (
